@@ -7,7 +7,7 @@
 
 
 
-### Hello World :tw-1f44b:
+### Hello World 🤙
 
 ![EricksonVaz profile view count](https://komarev.com/ghpvc/?username=EricksonVaz&color=brightgreen)
 <br>
