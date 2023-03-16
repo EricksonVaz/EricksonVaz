@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T17:58:57.520Z" agent="5.0 (Windows)" version="20.4.1" etag="UuSdQvL_-sS1lOmlgJXL" type="github"><diagram id="91SoJRzIS2ou-pmzREYI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-16T18:01:25.581Z" agent="5.0 (Windows)" etag="MaFz_nTpZwmN41rYFyv9" version="20.4.1" type="github">
+  <diagram id="91SoJRzIS2ou-pmzREYI" name="Page-1">
+    <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TdgaGqSJmw3XGmhZbYln-1" value="Reclamante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="50" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TdgaGqSJmw3XGmhZbYln-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="230" as="sourcePoint" />
+            <mxPoint x="425" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
